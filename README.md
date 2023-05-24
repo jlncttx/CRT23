@@ -1,5 +1,6 @@
 # CRT23
 Codes associated with Cattiaux, Ribes and Thompson (2023), Searching for the most extreme temperature events in recent history, submitted to BAMS.
+Associated data is available here: https://doi.org/10.5281/zenodo.7966559
 
 Details:
 
